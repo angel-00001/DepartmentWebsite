@@ -3,3 +3,6 @@ A collaborative web portal for department updates, faculty directories, and acad
 ## Getting Started
 - Clone this repository
 - Open `index.html` in your browser
+
+## License
+MIT License - Computer Science Department.
